@@ -1,0 +1,10 @@
+{
+  "name": "turtle-inc-monorepo",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix TURTLE_INC_REACT run dev",
+    "build": "npm --prefix TURTLE_INC_REACT run build",
+    "lint": "npm --prefix TURTLE_INC_REACT run lint",
+    "preview": "npm --prefix TURTLE_INC_REACT run preview"
+  }
+}

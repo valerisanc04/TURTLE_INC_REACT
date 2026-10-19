@@ -1,0 +1,6 @@
+/* Reset de estilos por defecto de Vite para respetar el 100% del diseño original */
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
